@@ -1,0 +1,23 @@
+{
+  "name": "pr-cticafactorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "factorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TefaEspana/Pr-cticaFactorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TefaEspana/Pr-cticaFactorial/issues"
+  },
+  "homepage": "https://github.com/TefaEspana/Pr-cticaFactorial#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
